@@ -1,0 +1,12 @@
+[submodule "DBMS-Analysis"]
+	path = DBMS-Analysis
+	url = git@github.com:odairmario/DBMS-analysis.git
+[submodule "DBMS-Schedule"]
+	path = DBMS-Schedule
+	url = git@github.com:odairmario/DBMS-Schedule.git
+[submodule "DBMS-Final-Paper"]
+	path = DBMS-Final-Paper
+	url = git@github.com:odairmario/Graduation-final-work.git
+[submodule "DBMS-Benchmark-TPCH"]
+	path = DBMS-Benchmark-TPCH
+	url = git@github.com:odairmario/DBMS-Benchmark-tpch.git
